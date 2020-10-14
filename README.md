@@ -1,6 +1,5 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 
-
 # Created by Mohamed Mohsen
 
 This repository contains bikeshare project for Udacity Programming For Data Science Using Python Nanodegree.
